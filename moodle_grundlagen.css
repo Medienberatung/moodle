@@ -1,0 +1,421 @@
+﻿.grau{
+   background-color: #D8D8D8;
+   padding-left: 20px; 
+   line-height: 30px;
+} 
+.blau{
+   background-color: #D5F0EE;
+   padding-left: 20px; 
+   line-height: 30px;
+}
+.gelb{
+   background-color: #F3F781;
+   padding-left: 20px; 
+   line-height: 30px;
+}
+.gruen{
+   background-color: #A9F5A9 ;
+   padding-left: 20px; 
+   line-height: 30px;
+}
+.rot{
+   background-color: #F6CECE;
+   padding-left: 20px; 
+   line-height: 30px;
+}
+.orange{
+   background-color: #FAAC58;
+   padding-left: 20px; 
+   line-height: 30px;
+}
+.mushroom{
+   background: url(../pluginfile.php/2224/mod_folder/content/0/mushroom.png) repeat;
+   padding-left: 20px; 
+   line-height: 30px;
+}
+.bark{
+   background: url(../pluginfile.php/2224/mod_folder/content/0/bark.png) repeat;
+   color: white;
+   padding-left: 20px; 
+   line-height: 30px;
+}
+.earth{
+   background: url(../pluginfile.php/2224/mod_folder/content/0/earth.png) repeat;
+   color: white;
+   padding-left: 20px; 
+   line-height: 30px;
+}
+.stormy{
+   background: url(../pluginfile.php/2224/mod_folder/content/0/stormy.png) repeat;
+   color: white;   
+   padding-left: 20px; 
+   line-height: 30px;
+}
+.sea{
+   background: url(../pluginfile.php/2224/mod_folder/content/0/sea.png) repeat;
+   padding-left: 20px; 
+   line-height: 30px;
+}
+.limestone{
+   background: url(../pluginfile.php/2224/mod_folder/content/0/limestone.png) repeat;
+   padding-left: 20px; 
+   line-height: 30px;
+}
+.sand{
+   background: url(../pluginfile.php/2224/mod_folder/content/0/sand.png) repeat;
+   padding-left: 20px; 
+   line-height: 30px;
+}
+.fern{
+   background: url(../pluginfile.php/2224/mod_folder/content/0/fern.png) repeat;
+   padding-left: 20px; 
+   line-height: 30px;
+}
+.olive{
+   background: url(../pluginfile.php/2224/mod_folder/content/0/olive.png) repeat;
+   padding-left: 20px; 
+   line-height: 30px;
+}
+.fawn{
+   background: url(../pluginfile.php/2224/mod_folder/content/0/fawn.png) repeat;
+   padding-left: 20px; 
+   line-height: 30px;
+}
+.sedona{
+   background: url(../pluginfile.php/2224/mod_folder/content/0/sedona.png) repeat;
+   padding-left: 20px; 
+   line-height: 30px;
+}
+.papier01{
+   background: url(../pluginfile.php/2224/mod_folder/content/0/paper-01.jpg) repeat;
+   padding-left: 20px; 
+   line-height: 30px;
+}
+
+p.bark, p.earth, p.fawn, p.fern, p.limestone, p.mushroom, p.olive, p.sand, p.sea, p.sedona, p.stormy, p.blau, p.grau, p.gelb, p.gruen, p.rot, p.orange{
+   padding-left: 20px;
+   padding-right: 20px;
+   padding-top: 5px;
+   padding-bottom: 7px;
+   line-height: 20px;
+}
+
+.linie_gelb {
+	border: 1px solid #ddd;
+	border-left: 8px solid #FF6;
+	padding: 8px;
+	background: #fafafa;
+	margin: 10px 0 20px;
+}
+.linie_blau {
+	border: 1px solid #ddd;
+	border-left: 8px solid #6495ed;
+	padding: 8px;
+	background: #fafafa;
+	margin: 10px 0 20px;
+}
+.linie_rot {
+	border: 1px solid #ddd;
+	border-left: 8px solid #f08080;
+	padding: 8px;
+	background: #fafafa;
+	margin: 10px 0 20px;
+}
+.linie_gruen {
+	border: 1px solid #ddd;
+	border-left: 8px solid #82FA58;
+	padding: 8px;
+	background: #fafafa;
+	margin: 10px 0 20px;
+}
+.box_gelb{
+        border: 4px solid #FF6;
+        padding: 8px;
+}
+.box_gelb_f{
+        border: 4px solid #FF6;
+        background-color: #F2F5A9;
+        padding: 8px;
+}
+.box_rot{
+        border: 4px solid #f08080;
+        padding: 8px;
+}
+.box_rot_f{
+        border: 4px solid #f08080;
+        padding: 8px;
+        background-color: #F6CECE;
+}
+.box_blau{
+        border: 4px solid #6495ed;
+        padding: 8px;
+}
+.box_blau_f{
+        border: 4px solid #6495ed;
+        padding: 8px;
+        background-color:#e0ffff;
+}
+.box_gruen{
+        border: 4px solid #82FA58;
+        padding: 8px;
+}
+.box_gruen_f{
+        border: 4px solid #82FA58;
+        padding: 8px;
+        background-color:#D8F6CE;
+}
+.aufgabe {
+	background: url(../pluginfile.php/2224/mod_folder/content/0/aufgabe.png) no-repeat left top;
+        background-size:48px;
+	padding: 0px 0px 0px 60px;
+	display: block;
+        min-height:48px;
+        margin-top:10px;
+}
+.aufgabe_gelb{
+	background: url(../pluginfile.php/2224/mod_folder/content/0/aufgabe.png) no-repeat left top;
+        background-size:48px;
+	padding: 0px 0px 0px 60px;
+	display: block;
+        min-height:48px;
+        margin-top:10px;
+        border: 4px solid #FF6;
+        padding: 8px;
+}
+.information{
+	background: url(../pluginfile.php/2224/mod_folder/content/0/information.png) no-repeat left top;
+        background-size:48px;
+	padding: 0px 0px 0px 60px;
+	display: block;
+        min-height:48px;
+}
+.uhr {
+	background: url(../pluginfile.php/2224/mod_folder/content/0/uhr.png) no-repeat left top;
+        background-size:48px;
+	padding: 0px 0px 0px 60px;
+	display: block;
+        min-height:48px;
+}
+.plus {
+	background: url(../pluginfile.php/2224/mod_folder/content/0/plus.png) no-repeat left top;
+        background-size:48px;
+	padding: 0px 0px 0px 60px;
+	display: block;
+        min-height:48px;
+}
+.plus_linie {
+	background: url(../pluginfile.php/2224/mod_folder/content/0/plus.png) no-repeat left 5px;
+        background-size:32px;
+	padding-left: 40px;
+        padding-top: 12px;
+        padding-bottom: 0px;
+	display: block;
+        min-height:26px;
+        border-top-color: #848484;
+        border-top-width: 5px;
+        border-top-style: dotted;
+        margin-top:10px;
+}
+.musik {
+	background: url(../pluginfile.php/2224/mod_folder/content/0/musik.png) no-repeat left top;
+        background-size:48px;
+	padding: 0px 0px 0px 60px;
+	display: block;
+        min-height:48px;
+}
+.taschenrechner {
+	background: url(../pluginfile.php/2224/mod_folder/content/0/taschenrechner.png) no-repeat left top;
+        background-size:48px;
+	padding: 0px 0px 0px 60px;
+	display: block;
+        min-height:48px;
+}
+.idee{
+	background: url(../pluginfile.php/2224/mod_folder/content/0/idee.png) no-repeat left top;
+        background-size:48px;
+	padding: 0px 0px 0px 60px;
+	display: block;
+        min-height:48px;
+}
+.email{
+	background: url(../pluginfile.php/2224/mod_folder/content/0/email.png) no-repeat left top;
+        background-size:48px;
+	padding: 0px 0px 0px 60px;
+	display: block;
+        min-height:48px;
+}
+.alphabet{
+	background: url( ../pluginfile.php/2224/mod_folder/content/0/aphabet.png) no-repeat left top;
+        background-size:48px;
+	padding: 0px 0px 0px 60px;
+	display: block;
+        min-height:48px;
+}
+.diagramm2{
+        background: url(../pluginfile.php/2224/mod_folder/content/0/diagramm2.png) no-repeat left top;
+        background-size:48px;
+	padding: 0px 0px 0px 60px;
+	display: block;
+        min-height:48px;
+}
+.ti{
+        background: url(../pluginfile.php/2224/mod_folder/content/0/ti.png) no-repeat left top;
+        background-size:48px;
+	padding: 0px 0px 0px 60px;
+	display: block;
+        min-height:48px;
+}
+.null{
+        background: url(../pluginfile.php/2224/mod_folder/content/0/number-0.png) no-repeat left top;
+        background-size:48px;
+	padding: 0px 0px 0px 60px;
+	display: block;
+        min-height:48px;
+}
+.eins{
+        background: url(../pluginfile.php/2224/mod_folder/content/0/number-1.png) no-repeat left top;
+        background-size:48px;
+	padding: 0px 0px 0px 60px;
+	display: block;
+        min-height:48px;
+}
+.zwei{
+        background: url(../pluginfile.php/2224/mod_folder/content/0/number-2.png) no-repeat left top;
+        background-size:48px;
+	padding: 0px 0px 0px 60px;
+	display: block;
+        min-height:48px;
+}
+.drei{
+        background: url(../pluginfile.php/2224/mod_folder/content/0/number-3.png) no-repeat left top;
+        background-size:48px;
+	padding: 0px 0px 0px 60px;
+	display: block;
+        min-height:48px;
+}
+.vier{
+        background: url(../pluginfile.php/2224/mod_folder/content/0/number-4.png) no-repeat left top;
+        background-size:48px;
+	padding: 0px 0px 0px 60px;
+	display: block;
+        min-height:48px;
+}
+.fuenf{
+        background: url(../pluginfile.php/2224/mod_folder/content/0/number-5.png) no-repeat left top;
+        background-size:48px;
+	padding: 0px 0px 0px 60px;
+	display: block;
+        min-height:48px;
+}
+.sechs{
+        background: url(../pluginfile.php/2224/mod_folder/content/0/number-6.png) no-repeat left top;
+        background-size:48px;
+	padding: 0px 0px 0px 60px;
+	display: block;
+        min-height:48px;
+}
+.sieben{
+        background: url(../pluginfile.php/2224/mod_folder/content/0/number-7.png) no-repeat left top;
+        background-size:48px;
+	padding: 0px 0px 0px 60px;
+	display: block;
+        min-height:48px;
+}
+.acht{
+        background: url(../pluginfile.php/2224/mod_folder/content/0/number-8.png) no-repeat left top;
+        background-size:48px;
+	padding: 0px 0px 0px 60px;
+	display: block;
+        min-height:48px;
+}
+.neun{
+        background: url(../pluginfile.php/2224/mod_folder/content/0/number-9.png) no-repeat left top;
+        background-size:48px;
+	padding: 0px 0px 0px 60px;
+	display: block;
+        min-height:48px;
+}
+.zehn{
+        background: url(../pluginfile.php/2224/mod_folder/content/0/number-10.png) no-repeat left top;
+        background-size:48px;
+	padding: 0px 0px 0px 60px;
+	display: block;
+        min-height:48px;
+}
+.null_s{
+        background: url(../pluginfile.php/2224/mod_folder/content/0/alphabet-silver-0.png) no-repeat left top;
+        background-size:48px;
+        padding: 0px 0px 0px 60px;
+        display: block;
+        min-height:48px;
+}
+.eins_s{
+        background: url(../pluginfile.php/2224/mod_folder/content/0/alphabet-silver-1.png) no-repeat left top;
+        background-size:48px;
+        padding: 0px 0px 0px 60px;
+        display: block;
+        min-height:48px;
+}
+.zwei_s{
+        background: url(../pluginfile.php/2224/mod_folder/content/0/alphabet-silver-2.png) no-repeat left top;
+        background-size:48px;
+        padding: 0px 0px 0px 60px;
+        display: block;
+        min-height:48px;
+}
+.drei_s{
+        background: url(../pluginfile.php/2224/mod_folder/content/0/alphabet-silver-3.png) no-repeat left top;
+        background-size:48px;
+        padding: 0px 0px 0px 60px;
+        display: block;
+        min-height:48px;
+}
+.vier_s{
+        background: url(../pluginfile.php/2224/mod_folder/content/0/alphabet-silver-4.png) no-repeat left top;
+        background-size:48px;
+        padding: 0px 0px 0px 60px;
+        display: block;
+        min-height:48px;
+}
+.fuenf_s{
+        background: url(../pluginfile.php/2224/mod_folder/content/0/alphabet-silver-5.png) no-repeat left top;
+        background-size:48px;
+        padding: 0px 0px 0px 60px;
+        display: block;
+        min-height:48px;
+}
+.sechs_s{
+        background: url(../pluginfile.php/2224/mod_folder/content/0/alphabet-silver-6.png) no-repeat left top;
+        background-size:48px;
+        padding: 0px 0px 0px 60px;
+        display: block;
+        min-height:48px;
+}
+.sieben_s{
+        background: url(../pluginfile.php/2224/mod_folder/content/0/alphabet-silver-7.png) no-repeat left top;
+        background-size:48px;
+        padding: 0px 0px 0px 60px;
+        display: block;
+        min-height:48px;
+}
+.acht_s{
+        background: url(../pluginfile.php/2224/mod_folder/content/0/alphabet-silver-8.png) no-repeat left top;
+        background-size:48px;
+        padding: 0px 0px 0px 60px;
+        display: block;
+        min-height:48px;
+}
+.neun_s{
+        background: url(../pluginfile.php/2224/mod_folder/content/0/alphabet-silver-9.png) no-repeat left top;
+        background-size:48px;
+        padding: 0px 0px 0px 60px;
+        display: block;
+        min-height:48px;
+}
+.zehn_s{
+        background: url(../pluginfile.php/2224/mod_folder/content/0/alphabet-silver-10.png) no-repeat left top;
+        background-size:48px;
+        padding: 0px 0px 0px 60px;
+        display: block;
+        min-height:48px;
+}
